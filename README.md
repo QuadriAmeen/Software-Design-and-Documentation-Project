@@ -1,2 +1,2 @@
 # Software-Design-and-Documentation-Project
-Module 06 &amp; (Project 04 and your Project 05 )
+Module 06 &amp; (Combine Project 04 & 05 )
